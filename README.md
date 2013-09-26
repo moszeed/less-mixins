@@ -1,4 +1,3 @@
 less-mixins
 ===========
-
-a collection of Mixin`s for LESS
+a (still in progress) collection of Mixin`s for LESS
